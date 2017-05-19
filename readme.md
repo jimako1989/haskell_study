@@ -12,6 +12,6 @@ brew install ghc
 
  - "Hello world!"
 ```
-⋊> ~/D/G/haskell_study on master ⨯ ghc -e main 0524.hs                                                                                                                       20:55:11
+⋊> ghc -e main 0524.hs
 Hello World!
 ```
