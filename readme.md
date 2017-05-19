@@ -9,7 +9,6 @@ Haskell 勉強会
 ```
 brew install ghc
 ```
-終わり
 
  - "Hello world!"
 ```
